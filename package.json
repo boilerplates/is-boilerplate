@@ -1,0 +1,41 @@
+{
+  "name": "is-boilerplate",
+  "description": "Returns true if an object is a Boilerplate instance.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/is-boilerplate",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/is-boilerplate",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-boilerplate/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-plain-object": "^2.0.1"
+  },
+  "devDependencies": {
+    "boilerplate": "^0.3.2",
+    "mocha": "*"
+  },
+  "keywords": [
+    "boilerplate",
+    "boilerplatefriendly"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "scaffold",
+        "boilerplate"
+      ]
+    }
+  }
+}
