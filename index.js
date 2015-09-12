@@ -1,5 +1,5 @@
 /*!
- * is-boilerplate <https://github.com/jonschlinkert/is-boilerplate>
+ * is-boilerplate <https://github.com/boilerplate/is-boilerplate>
  *
  * Copyright (c) 2015, Jon Schlinkert.
  * Licensed under the MIT License.
