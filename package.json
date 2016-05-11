@@ -24,18 +24,34 @@
   },
   "devDependencies": {
     "boilerplate": "^0.3.2",
+    "gulp-format-md": "^0.1.9",
     "mocha": "*"
   },
   "keywords": [
     "boilerplate",
-    "boilerplatefriendly"
+    "boilerplatefriendly",
+    "scaffold"
   ],
   "verb": {
     "related": {
       "list": [
-        "scaffold",
-        "boilerplate"
+        "boilerplate",
+        "scaffold"
       ]
-    }
+    },
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb"
+    ]
   }
 }
