@@ -1,7 +1,7 @@
 {
   "name": "is-boilerplate",
   "description": "Returns true if an object is a Boilerplate instance.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/boilerplate/is-boilerplate",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "boilerplate/is-boilerplate",
